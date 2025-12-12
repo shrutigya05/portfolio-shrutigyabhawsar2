@@ -1,4 +1,4 @@
-# 🌟 Portfolio Website – Shruti Gya Bhawsar
+# 🌟 Portfolio Website – Shrutigya Bhawsar
 
 A fully responsive personal portfolio website built using **HTML, CSS, and JavaScript**.  
 It showcases my skills, projects, experience, and contact details in a clean and modern design.
